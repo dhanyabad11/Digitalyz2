@@ -1,0 +1,25 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T001,AI Chatbot Development,Development,3,"Python,AI,Machine Learning","[1,2,3]",2
+T002,E-commerce Platform,Development,4,"JavaScript,React,Node.js","[2,3,4,5]",1
+T003,Data Analytics Dashboard,Analytics,2,"Python,Data Science,Visualization","[1,3,4]",2
+T004,Mobile App Development,Mobile,3,"Mobile,React Native","[2,4,5]",1
+T005,Cloud Infrastructure Setup,Infrastructure,2,"DevOps,AWS,Kubernetes","[1,2,3]",1
+T006,Security Audit,Security,1,"Security,Penetration Testing","[1,5]",1
+T007,API Development,Development,2,"Java,Spring,Microservices","[2,3,4]",2
+T008,Database Optimization,Database,1,"PostgreSQL,Performance Tuning","[1,3,5]",1
+T009,UI/UX Redesign,Design,2,"UI/UX,Figma,Design","[2,3,4]",1
+T010,Quality Assurance,Testing,1,"QA,Automation,Testing","[3,4,5]",3
+T011,Blockchain Integration,Blockchain,3,"Blockchain,Solidity,Web3","[1,3,5]",1
+T012,Machine Learning Model,AI,2,"Machine Learning,TensorFlow,Python","[1,2,4]",1
+T013,Technical Documentation,Documentation,1,"Technical Writing,Documentation","[2,3,4,5]",2
+T014,Performance Optimization,Optimization,1,"Performance,Optimization","[3,4,5]",2
+T015,Microservices Architecture,Architecture,3,"Microservices,Docker,Architecture","[1,2,3]",1
+T016,Frontend Framework Migration,Migration,2,"JavaScript,React,Migration","[2,3,4]",1
+T017,Data Pipeline Development,Data Engineering,2,"Python,Data Engineering,ETL","[1,3,4]",1
+T018,Mobile Testing Suite,Testing,1,"Mobile,Testing,Automation","[4,5]",2
+T019,DevOps Automation,Automation,2,"DevOps,Automation,CI/CD","[1,2,5]",1
+T020,Enterprise Integration,Integration,3,"Integration,APIs,Enterprise","[2,3,4]",1
+T021,Analytics Platform,Analytics,3,"Analytics,Data Science,Platform","[1,2,3]",1
+T022,Security Framework,Security,2,"Security,Framework,Compliance","[1,3,5]",1
+T023,Creative Campaign,Creative,1,"Creative,Design,Marketing","[2,4]",2
+T024,Brand Identity,Branding,1,"Branding,Design,Creative","[3,4,5]",1
